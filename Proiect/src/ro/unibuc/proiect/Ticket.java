@@ -1,8 +1,6 @@
 package ro.unibuc.proiect;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.util.Locale;
 import java.util.Random;
 
 public class Ticket implements Comparable<Ticket>{
